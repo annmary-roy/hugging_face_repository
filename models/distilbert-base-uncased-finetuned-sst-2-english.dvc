@@ -1,0 +1,5 @@
+outs:
+- md5: 00c06ffdc65965d46ed28b16b40939b3.dir
+  size: 1071797699
+  nfiles: 10
+  path: distilbert-base-uncased-finetuned-sst-2-english
