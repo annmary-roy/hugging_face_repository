@@ -1,0 +1,5 @@
+outs:
+- md5: dfa4bccd3f0bda10244b1e67bf43c8cf.dir
+  size: 273796423
+  nfiles: 8
+  path: distilbert-base-japanese-finetuned-livedoor
