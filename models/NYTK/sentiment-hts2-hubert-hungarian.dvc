@@ -1,0 +1,5 @@
+outs:
+- md5: ef36d5acd8d1a9b5284e14300a335c28.dir
+  size: 443362316
+  nfiles: 8
+  path: sentiment-hts2-hubert-hungarian
